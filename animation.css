@@ -2,9 +2,9 @@
     Handcoded by JAC - Johnny Alimoot C.
 */
 :root{
-    --slideImage1 : url('../art/party1.jpg');
-    --slideImage2 : url('../art/party2.jpg');
-    --slideImage3 :url('../art/party3.jpg');
+    --slideImage1 : url('party1.jpg');
+    --slideImage2 : url('party2.jpg');
+    --slideImage3 :url('party3.jpg');
 }
 
 @-webkit-keyframes hero-slideshow {
@@ -163,4 +163,5 @@
         }
     }
     
+
 }
